@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+gunicorn
+psycopg2-binary
+pytest
+flake8
+black
