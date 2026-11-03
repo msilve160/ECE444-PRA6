@@ -1,7 +1,7 @@
 Flask
 Flask-SQLAlchemy
 gunicorn
-psycopg2-binary
+psycopg[binary]
 pytest
 flake8
 black
